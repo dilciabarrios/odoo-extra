@@ -1,0 +1,4 @@
+Install wkhtmltopdf with patched QT on Ubuntu Linux
+
+https://gist.github.com/AnjaneyuluBatta505/4ff2044f129513591fc0a23686b8cf8e
+
